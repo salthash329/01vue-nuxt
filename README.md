@@ -1,4 +1,4 @@
-# 01test-nuxt
+# Vue + Nuxt App Project
 
 > My tiptop Nuxt.js project
 
@@ -20,8 +20,3 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-# 01-testnuxt
-# 01-testnuxt
-# 01vue-nuxt
-# 01vue-nuxt
-# 01vue-nuxt
